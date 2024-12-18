@@ -1,0 +1,25 @@
+body{
+background-image:linear-gradient(#AD8B73,#CEAB93,#E3CAA5,#E3CAA5);
+padding: 10px;
+}
+h1{
+text-align: center;
+font-family: "Pixelify Sans", sans-serif;
+}
+h2{
+color: brown;
+font-family: "Edu AU VIC WA NT Pre", cursive;
+}
+p{
+text-align: justify;
+font-family: "Edu AU VIC WA NT Pre", cursive;
+}
+img{
+width: 200px;
+border: ridge 3px black;
+transition: transform 2s ease 0.1s;
+}
+img:hover{
+transform: rotate(10deg);
+
+}

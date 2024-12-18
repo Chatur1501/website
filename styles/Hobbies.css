@@ -1,0 +1,27 @@
+ul {
+  list-style-type: circle;
+}
+body {
+  background-image: linear-gradient(#fff2f2, #e5e0ff, #8ea7e9, #7286d3);
+}
+li {
+  font-size: 30px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: "Pixelify Sans", sans-serif;
+}
+p {
+  font-family: "Edu AU VIC WA NT Pre", cursive;
+}
+h1 {
+  font-family: "Pixelify Sans", sans-serif;
+  text-align: center;
+  transition: transform 2s ease 0.1s;
+}
+img {
+border:groove 3px black;
+}
+h1:hover{
+transform: scale(1.2);
+}
+

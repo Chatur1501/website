@@ -1,0 +1,39 @@
+.onepiece 
+{ 
+border-radius: 20px;
+background-color: lightskyblue;
+width: 30%;
+
+}
+.onepiece img{
+width: 100%;
+}
+.onepiece h2
+{
+ padding-top: 15px;
+ padding-left: 5px;
+ transition: transform 2s ease 0.1s;
+}
+.onepiece p
+{
+ padding: 10px;
+  font-family: "Nunito Sans", sans-serif;
+}
+.blackclover
+{
+display:flex; 
+flex-wrap: wrap;
+justify-content:space-around;
+row-gap: 10px;
+}
+body{
+background-image: linear-gradient(#433878,#7E60BF,#E4B1F0,#FFE1FF);
+}
+h1{
+text-align: center;
+}
+.onepiece h2:hover{
+transform: translateX(40%);
+}
+
+

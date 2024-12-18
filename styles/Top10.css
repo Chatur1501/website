@@ -1,0 +1,22 @@
+ol{
+    list-style-type:lower-latin;
+}
+body {
+  background-image: linear-gradient(#fff2f2, #e5e0ff, #8ea7e9, #7286d3);
+}
+li {
+  font-size: 30px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: "Pixelidfy Sans", sans-serif;
+}
+p {
+  font-family: "Edu AU VIC WA NT Pre", cursive;
+}
+h1 {
+  font-family: "Pixelify Sans", sans-serif;
+  text-align: center;
+}
+a:hover{
+color:darkgoldenrod ;
+}
